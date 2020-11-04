@@ -30,5 +30,5 @@ echo "This is your roll for die one: $roll and die two: $roll2 "
 sum=$(( $roll + $roll2))
 # finds the aavridge of the mumbers and assighns it a variable
 avrg=$(( sum/2))
-# Tell the user the results of the roll, the avrage and the sum.
+# Tell the user the results of the roll, the avrage and the sum..
 echo "This is your roll for die one: $roll and die two: $roll2, The sum of your rolls is $sum and the average of your rolls is $avrg"
