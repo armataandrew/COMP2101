@@ -1,0 +1,1 @@
+﻿ get-ciminstance cim_processor | format-list manufacturer,name,currentclockspeed,maxclockspeed,numberofcoresc
